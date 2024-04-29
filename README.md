@@ -1,5 +1,9 @@
+[![](https://img.shields.io/badge/Visit-our%20project%20page-ff69b4)](https://github.com/zhangerjun/Introduction_To_Python-based_Biomedical_Data_Analysis)
+
+
 # dMRI reconstrcution from scratch
-dMRI reconstruction algorithm was write from scratch
+*[An Introduction to Python-based MRI Data Analysis](https://github.com/zhangerjun/Introduction_To_Python-based_Biomedical_Data_Analysis): mini-project II/VIII*
+
 Team contributor: EJZ
 
 
