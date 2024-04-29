@@ -2,7 +2,7 @@
 
 
 # dMRI reconstrcution from scratch
-*[An Introduction to Python-based MRI Data Analysis](https://github.com/zhangerjun/Introduction_To_Python-based_Biomedical_Data_Analysis): mini-project II/VIII*
+*[An Introduction to Python-based MRI Data Analysis](https://github.com/zhangerjun/Introduction_To_Python-based_Biomedical_Data_Analysis): mini-project V/VIII*
 
 Team contributor: EJZ
 
